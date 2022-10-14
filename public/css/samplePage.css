@@ -1,0 +1,16 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+header{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+}
+
+header .title{
+    color: red;
+    font-size: 3em;
+}
